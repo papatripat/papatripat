@@ -54,8 +54,8 @@ I am especially interested in the intersection of **software engineering and AI*
 ```yaml
 roles:
   - Full-Stack Developer Internship
-  - AI / ML Engineer Internship
-  - Software Engineer Internship
+  - AI / ML Engineer 
+  - Software Engineer 
   - Hackathon & Open Source Collaboration
   - Freelance Web Development Projects
 
@@ -342,9 +342,9 @@ Exploring:
   - Product Engineering & Startup Culture
 
 Open To:
-  - Full-Stack Developer Internship
-  - AI / ML Engineer Internship
-  - Software Engineer Internship
+  - Full-Stack Developer Internship / Work
+  - AI / ML Engineer Internship / Work
+  - Software Engineer Internship / Work
   - Hackathon Collaboration
   - Open Source Contributions
 ```
