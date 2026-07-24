@@ -298,12 +298,12 @@ Studying Computer Science with a focus on software engineering, artificial intel
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=papatripat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=93C5FD&icon_color=60A5FA&ring_color=2563EB" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=papatripat&theme=tokyonight" />
 <img width="49%" src="https://streak-stats.demolab.com?user=papatripat&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=93C5FD&currStreakNum=60A5FA&sideNums=3B82F6&dates=93C5FD" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papatripat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=93C5FD" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papatripat&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=papatripat&theme=tokyonight&utcOffset=7" />
 
 </div>
