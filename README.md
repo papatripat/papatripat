@@ -53,7 +53,7 @@ I am especially interested in the intersection of **software engineering and AI*
 
 ```yaml
 roles:
-  - Full-Stack Developer Internship
+  - Full-Stack Developer 
   - AI / ML Engineer 
   - Software Engineer 
   - Hackathon & Open Source Collaboration
