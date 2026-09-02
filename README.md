@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/papatripat?tab=repositories">
+<a href="https://rifatabhista-portofolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=60A5FA" />
 </a>
 <a href="https://linkedin.com/in/rifatabhista">
@@ -367,7 +367,7 @@ Open To:
 <a href="https://instagram.com/rifatabhistaa">
   <img src="https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://github.com/papatripat?tab=repositories">
+<a href="https://rifatabhista-portofolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
